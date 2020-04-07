@@ -1,4 +1,4 @@
-// This is what the Redux Store does behind the scenes
+// This is what the Redux.createStore does behind the scenes
 
 function createStore (reducer) {
     // The store should have four parts
